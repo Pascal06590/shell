@@ -1,0 +1,40 @@
+﻿Liste des commandes linux nécessaires
+pour 
+l'exercice dans le shell du terminal:
+
+
+
+cd /
+
+sudo mkdir Jaime_le_shell
+cd Jaime_le_shell
+
+cd Jaime_le_shell
+cd Jaime_le_shell
+sudo touch test1
+
+sudo mkdir test2
+
+sudo mkdir test3
+
+sudo mkdir test4
+
+sudo touch test5
+
+sudo mkdir test6
+
+ls -l
+
+sudo mkdir le_shell_cest_trop_cool!
+
+sudo mv test1 le_shell_cest_trop_cool\!/
+
+sudo mv test5 le_shell_cest_trop_cool\!/
+
+sudo cp -r test2/ le_shell_cest_trop_cool\!//
+
+sudo cp -r test6/ le_shell_cest_trop_cool\!//
+
+cd le_shell_cest_trop_cool!
+
+ls -l
