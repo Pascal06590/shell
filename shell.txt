@@ -7,10 +7,9 @@ l'exercice dans le shell du terminal:
 cd /
 
 sudo mkdir Jaime_le_shell
-cd Jaime_le_shell
 
 cd Jaime_le_shell
-cd Jaime_le_shell
+
 sudo touch test1
 
 sudo mkdir test2
